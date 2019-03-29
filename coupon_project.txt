@@ -1,0 +1,194 @@
+Groupon
+Food 
+20
+20
+90
+false
+Walmart 
+Groceries
+35 
+10
+30
+true
+Meijer 
+Pharmacy
+80
+15
+120
+false
+Ikea 
+Furniture
+200
+15
+60
+false
+Walmart
+Crockery
+150
+10
+65
+false
+Groupon 
+Clothing 
+80
+10
+90
+true
+LikeaCoupon
+Food
+50
+50
+15
+false
+DealDaddies
+Clothing
+100
+25
+90
+false
+BestBuy
+Electronics 
+150
+10
+5
+false
+Amazon
+Electronics
+80
+10
+20
+true
+Apple
+Iphones
+800
+10
+7
+false
+Coupon Cabin
+Shoes
+100
+9
+10
+false
+Coupon Cabin
+Food
+35
+5
+90
+false
+Coupon Chef
+Clothing
+80
+10
+60
+false
+Price Blink
+Clothing
+90
+10
+30
+false
+Coupon Cabin 
+Shoes
+80
+10
+20
+false
+Coupon Cabin
+Electronics
+150
+20
+30
+false
+Coupon Dunia
+Electronics 
+350
+10
+30
+false
+Coupon Cabin
+Furniture
+320
+8
+25
+false
+Amazon
+Shoes 
+100
+25
+65
+false
+Ebay 
+Electronics 
+180
+10
+20
+false
+Groupon
+Baby Products
+200
+10
+90
+false
+LivingSocial
+Hotels
+350
+20
+30
+false
+Living Social 
+Gym Membership
+300
+67
+20
+false
+Living Social 
+Yoga Classes
+200
+50
+10
+false
+Coupon Cabin 
+Garments 
+50
+27
+30
+false
+Living Social
+Phone Repairs
+200
+67
+120
+false
+Papa Johns
+Food 
+30
+15
+30
+false
+Nike
+Shoes
+200
+50
+7
+false
+Living Social 
+Massage
+75
+60
+5
+false
+Living Social
+Courses
+285
+86
+7
+false
+Coupon Cabin
+Apartments 
+1500
+20
+30
+false
+
+
